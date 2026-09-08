@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello</string>
+    <string name="network_error">Network error</string>
+
+    <!-- Errors -->
+    <string name="error_serialization">Serialization error</string>
+    <string name="error_server">Server error</string>
+    <string name="error_unknown">Unknown error</string>
+    <string name="error_default">An error occurred</string>
+    <string name="demo_token_limit">You have exceeded demo token limit</string>
+
+    <!-- Main Tabs -->
+    <string name="tab_random_title">10 Random NASA Photos</string>
+    <string name="tab_range_title">Photos by Date Range</string>
+    <string name="tab_saved_title">Saved Photos</string>
+    <string name="tab_random">Random</string>
+    <string name="tab_range">By Dates</string>
+    <string name="tab_saved">Saved</string>
+    <string name="action_refresh">Refresh</string>
+
+    <!-- Photo Card & Details -->
+    <string name="btn_open_details">🔍 Open details</string>
+    <string name="btn_expand">Expand ▼</string>
+    <string name="btn_collapse">Collapse ▲</string>
+    <string name="title_photo_details">Photo Details</string>
+    <string name="label_explanation">Explanation</string>
+    <string name="badge_nasa_apod">🚀 NASA APOD</string>
+    <string name="btn_retry">Retry 🔄</string>
+    <string name="msg_no_photos">No available photos</string>
+    <string name="msg_no_saved_photos">No saved photos yet.\nTap ❤️ on a photo card to save it locally.</string>
+</resources>
